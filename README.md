@@ -24,13 +24,14 @@ When I am not building dreams or volunteering to teach kids, you'll find me runn
  Work in Progress - I am extending the discrete results to continuous state and action spaces using the MPE gym environment.
 
 ## 📚 I am currently learning
-- [NVIDIA Sionna](https://nvlabs.github.io/sionna/index.html)
+- [NVIDIA Sionna](https://nvlabs.github.io/sionna/index.html)  
   ![NVIDIA](https://img.shields.io/badge/NVIDIA-Sionna-76B900?style=flat&logo=nvidia&logoColor=white)
-  ![MATLAB](https://img.shields.io/badge/MATLAB-RAG%20Agents-blue?style=flat&logo=mathworks&logoColor=white)
+  ![MATLAB](https://img.shields.io/badge/MATLAB-Channel Estimation-blue?style=flat&logo=mathworks&logoColor=white)  
   As a part of the coursework for 521322S Telecommunication Engineering Project, I am leveraging the open-source library to simulate the physical layer of wireless systems.
   Specifically, I am attempting to implement OFDM signal with sync and explore channel and data estimation comparing results with implementations with MATLAB.
 
 - [Building RAG Agents with LLMs](https://learn.nvidia.com/)
+  
 
 
 

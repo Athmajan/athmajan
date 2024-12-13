@@ -5,7 +5,9 @@
 ## 🙋🏽‍♂️ About Me
 I am from Sri Lanka 🇱🇰, currently living in Oulu Finland 🇫🇮.  
 I am an engineer with over 7 years of experience developing automation and digitization solutions in the telecommunications industry.  
+  
 I will soon receive a Master's Degree in Wireless Communications Engineering from the University of Oulu, where I have been exploring and studying applications of AI, RL and DL in Wireless Communications Networks.  
+  
 When I am not building dreams or volunteering to teach kids, you'll find me running outdoors 🏃🏽 - rain, shine, or snow!,  📺 Binge-watching Netflix's finest, and spending quality time with my beautiful wife Jero 🩵.
 
 ## 👨🏽‍💻 I am currently working on

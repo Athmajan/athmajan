@@ -27,19 +27,20 @@ TODO - Add MPE Repo Link here
 
 ## Projects Highlights
 
-- Signal Processing
+### Signal Processing
 - [Optimal Wiener Filter](https://github.com/Athmajan/SSP2-HW1)
 - [Kalman Filter](https://github.com/Athmajan/SSP2-HW2)
 - [Extended Kalman Filter](https://github.com/Athmajan/SSP2-HW3)
 - [LMS Algorithm for Channel Equalizations](https://github.com/Athmajan/SSP2-HW4)
 - [RLS Algorithm](https://github.com/Athmajan/SSP2-HW5)
 - [Estimator Correlator](https://github.com/Athmajan/SSP2-HW6)
-  - Signal Detection and Estimation  
-    - [Efficient Signal Estimator by Monte Carlo Simulation](https://github.com/Athmajan/SSP1-HW1)
-    - [Maximum likelihood estimator. Linear Estimator](https://github.com/Athmajan/SSP1-HW3)
-    - [MLE and LSE Estimators](https://github.com/Athmajan/SSP1-HW4)
-    - [LMMSE Estimator. Signal Detection](https://github.com/Athmajan/SSP1-HW5)
-    - [Linear algebra, Probabilities, Multivariate densities, and Matrices](https://github.com/Athmajan/SSP1-HW2)
+  
+### Signal Detection and Estimation  
+- [Efficient Signal Estimator by Monte Carlo Simulation](https://github.com/Athmajan/SSP1-HW1)
+- [Maximum likelihood estimator. Linear Estimator](https://github.com/Athmajan/SSP1-HW3)
+- [MLE and LSE Estimators](https://github.com/Athmajan/SSP1-HW4)
+- [LMMSE Estimator. Signal Detection](https://github.com/Athmajan/SSP1-HW5)
+- [Linear algebra, Probabilities, Multivariate densities, and Matrices](https://github.com/Athmajan/SSP1-HW2)
   
     
 - Reinforcement Learning

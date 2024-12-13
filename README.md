@@ -19,7 +19,8 @@ Adaptive multi-agent systems by modeling other agents' communications and action
 Pytorch implementation of the "World Models" for ARM processors (Apple Silicon)
 I reimplemented the Paper: Ha and Schmidhuber, "World Models", 2018. https://doi.org/10.5281/zenodo.1207631 with a focus on updating dependencies for compatibility for Apple Silicon processors.
 
-<img src="[https://github.com/Athmajan/athmajan/raw/main/bert_marl.gif](https://github.com/Athmajan/athmajan/blob/main/VAE%20WM.gif)" alt="VAE reconstruction" width="500">
+
+<img src="https://github.com/Athmajan/athmajan/blob/main/VAE%20WM.gif" alt="Adaptive Multi-Agent Systems" width="500">
 
 
 

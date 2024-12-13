@@ -8,7 +8,8 @@ When I am not building dreams or volunteering to teach kids, you'll find me runn
 ## 👨🏽‍💻 I am currently working on
 Adaptive multi-agent systems by modeling other agents' communications and actions.
 
-https://github.com/Athmajan/athmajan/blob/main/bert_marl.gif
+![Adaptive Multi-Agent Systems](https://github.com/Athmajan/athmajan/raw/main/bert_marl.gif)
+
 
 
 <!--

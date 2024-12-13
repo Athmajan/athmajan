@@ -42,11 +42,29 @@ TODO - Add MPE Repo Link here
 - [LMMSE Estimator. Signal Detection](https://github.com/Athmajan/SSP1-HW5)
 - [Linear algebra, Probabilities, Multivariate densities, and Matrices](https://github.com/Athmajan/SSP1-HW2)
   
-    
+## Network Virtualization and Containerization
+- [CoAP | IoT | Hypervisor](https://github.com/Athmajan/CN1-Lab)
+- [Mininet](https://github.com/Athmajan/CN2-Lab)
+- 
+- 
 - Reinforcement Learning
-- Deep Learning
 
+## Deep Learning
+- [Transfer Learning](https://github.com/Athmajan/DL-Transfer-Learning)
+  A group project on transfer learning-based image classification for the course Deep Learning 2023.
+  Collaborators :
+  - Suranga Wengappuli Arachchige : suranga.wengappuliarachchige@student.oulu.fi
+  - Madhusanka, Manimel Wadu : madhusanka.manimelwadu@oulu.fi
+ 
+- [Linear Regression](https://github.com/Athmajan/DL-Linear-Regression)
+  Load data and create a train/test split. Build Pytorch model for a simple linear regression problem. Training the model with gradient descent algorithm in Pytorch.
+  
+- [Fashion-MNIST classification](https://github.com/Athmajan/DL-NN)
+  Neural Network, Deep Neural Network, Loss Function and Optimization. Building a simple NN using numpy to understand the backpropagation. Gradient check using finite-difference approximation. Stochastic Gradient Descent (SGD). Regularization and simple hype-parameters tuning methods to improve NN performance.
 
+- [CNN](https://github.com/Athmajan/DL-CNN)
+- [Generative Adversarial Network](https://github.com/Athmajan/DL-GAN)
+  
 
 
 

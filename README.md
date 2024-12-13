@@ -41,6 +41,18 @@ TODO - Add MPE Repo Link here
 - [MLE and LSE Estimators](https://github.com/Athmajan/SSP1-HW4)
 - [LMMSE Estimator. Signal Detection](https://github.com/Athmajan/SSP1-HW5)
 - [Linear algebra, Probabilities, Multivariate densities, and Matrices](https://github.com/Athmajan/SSP1-HW2)
+
+## L1 Simulations
+- [Simulation of AWGN Channel](https://github.com/Athmajan/L1-AWGN)
+- [BER Simulations on AWGN with BPSK](https://github.com/Athmajan/L1-BER)
+- [Gray and Binary Coding with QPSK on AWGN](https://github.com/Athmajan/L1-Gray-Binary-Coding)
+- [Adaptive Gain Controller for LTE20 Signal](https://github.com/Athmajan/L1-Adaptive-Controller-LTE20)
+- [Ray Tracing](https://github.com/Athmajan/WC1-Lab/tree/main/Ray%20Tracing)
+- [MPSK in AWGN Channel](https://github.com/Athmajan/WC1-Lab/tree/main/MPSK%20in%20AWGN%20Channel)
+- [DPSK in Rayleigh Fading Channel](https://github.com/Athmajan/WC1-Lab/tree/main/DPSK%20in%20Rayleigh%20Fading%20Channel)
+- [Maximal Ratio Combining for Diversity](https://github.com/Athmajan/WC1-Lab/tree/main/Maximal%20Ratio%20Combining%20for%20Diversity)
+- [Channel Coding](https://github.com/Athmajan/WC1-Lab/tree/main/Channel%20Coding)
+- [Convolutional Encoder and Decoder](https://github.com/Athmajan/WC1-Lab/tree/main/Convolutional%20Encoder%20and%20Decoder)
   
 ## Network Virtualization and Containerization
 - [CoAP | IoT | Hypervisor](https://github.com/Athmajan/CN1-Lab)
@@ -49,6 +61,11 @@ TODO - Add MPE Repo Link here
 - 
 - Reinforcement Learning
 
+## Machine Learning
+- [Multi-Modal Physical Exercise Classification](https://github.com/Athmajan/MMDF)
+  Decision-level fusion for multimodal classification. Feature extraction. Feature-level fusion.
+
+  
 ## Deep Learning
 - [Transfer Learning](https://github.com/Athmajan/DL-Transfer-Learning)
   A group project on transfer learning-based image classification for the course Deep Learning 2023.

@@ -36,7 +36,7 @@ When I am not building dreams or volunteering to teach kids, you'll find me runn
 
 - [Multi Robot Repair](https://github.com/Athmajan/multi-robot-repair)
   This is a work in progress. I am developing the simulator described in the [paper](https://arxiv.org/abs/2011.04222) - Multiagent Rollout and Policy Iteration for POMDP with Application to Multi-Robot Repair Problems.
-  <img src="https://github.com/Athmajan/multi-robot-repair/blob/main/robot-repair-simulator.gif" alt="robot repair" width="45%">
+  <img src="https://github.com/Athmajan/multi-robot-repair/blob/main/robot-repair-simulator.gif" alt="robot repair" width="500">
 
 
 

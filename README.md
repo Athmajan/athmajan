@@ -13,10 +13,10 @@ When I am not building dreams or volunteering to teach kids, you'll find me runn
 ## 👨🏽‍💻 I am currently working on
 [Adaptive multi-agent systems by modeling other agents' communications and actions.](https://github.com/ICONgroupCWC/chase-and-capture)
 
-<img src="https://github.com/Athmajan/athmajan/raw/main/bert_marl.gif" alt="Adaptive Multi-Agent Systems" width="500">
-
-<img src="https://github.com/Athmajan/athmajan/blob/main/30_15_30_Adapt.gif" alt="Adaptive Multi-Agent Systems" width="500">
-
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    <img src="https://github.com/Athmajan/athmajan/raw/main/bert_marl.gif" alt="Adaptive Multi-Agent Systems" width="45%">
+    <img src="https://github.com/Athmajan/athmajan/blob/main/30_15_30_Adapt.gif" alt="Adaptive Multi-Agent Systems" width="45%">
+</div>
 ## ⨡ My Projects
 
 Pytorch implementation of the "World Models" for ARM processors (Apple Silicon)

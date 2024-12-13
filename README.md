@@ -10,6 +10,8 @@ Adaptive multi-agent systems by modeling other agents' communications and action
 
 ![Adaptive Multi-Agent Systems](https://github.com/Athmajan/athmajan/raw/main/bert_marl.gif)
 
+<img src="https://github.com/Athmajan/athmajan/raw/main/bert_marl.gif" alt="Adaptive Multi-Agent Systems" width="500">
+
 
 
 <!--

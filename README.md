@@ -11,27 +11,37 @@ I will soon receive a Master's Degree in Wireless Communications Engineering fro
 When I am not building dreams or volunteering to teach kids, you'll find me running outdoors 🏃🏽 - rain, shine, or snow!,  📺 Binge-watching Netflix's finest, and spending quality time with my beautiful wife Jero 🩵.
 
 ## 👨🏽‍💻 I am currently working on
+
+[Adaptive multi-agent systems by modeling other agents' communications and actions.](https://github.com/ICONgroupCWC/chase-and-capture)  
 - Discrete State/Action Spaces
-[Adaptive multi-agent systems by modeling other agents' communications and actions.](https://github.com/ICONgroupCWC/chase-and-capture)
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
     <img src="https://github.com/Athmajan/athmajan/raw/main/bert_marl.gif" alt="Adaptive Multi-Agent Systems" width="45%">
-    
-  
+    <img src="https://github.com/Athmajan/athmajan/blob/main/30_15_30_Adapt.gif" alt="Adaptive Multi-Agent Systems" width="45%">
 </div>
 
 - Continuous State/Action Spaces
- I am extending the discrete results to continuous state and action spaces.
+ Work in Progress - I am extending the discrete results to continuous state and action spaces using the MPE gym environment.
 
 ## 📚 I am currently learning
+- [NVIDIA Sionna](https://nvlabs.github.io/sionna/index.html)
+  ![NVIDIA](https://img.shields.io/badge/NVIDIA-Sionna-76B900?style=flat&logo=nvidia&logoColor=white)
+  ![MATLAB](https://img.shields.io/badge/MATLAB-RAG%20Agents-blue?style=flat&logo=mathworks&logoColor=white)
+  As a part of the coursework for 521322S Telecommunication Engineering Project, I am leveraging the open-source library to simulate the physical layer of wireless systems.
+  Specifically, I am attempting to implement OFDM signal with sync and explore channel and data estimation comparing results with implementations with MATLAB.
 
+- [Building RAG Agents with LLMs](https://learn.nvidia.com/)
 
 
 
 ## Reinforcement Learning
 - [World Models](https://github.com/ICONgroupCWC/worldmodels-ARM)
+  Original implementation by [ctallec](https://github.com/ctallec/world-models)
+  My contribution is the compatibility with Apple Silicon processors.  
+  
   Pytorch implementation of the "World Models" for ARM processors (Apple Silicon).
-  I reimplemented the Paper: Ha and Schmidhuber, [World Models](https://doi.org/10.5281/zenodo.1207631) compatible for Apple Silicon processors.
+  I reimplemented the Paper: Ha and Schmidhuber, [World Models](https://doi.org/10.5281/zenodo.1207631) compatible with Apple Silicon processors.
+  On the right, you can see the agent's regenerated dream of the real observation (left) by using the VAE.
   <img src="https://github.com/Athmajan/athmajan/blob/main/VAE%20WM.gif" alt="Adaptive Multi-Agent Systems" width="500">
 
 - [Multi Robot Repair](https://github.com/Athmajan/multi-robot-repair)

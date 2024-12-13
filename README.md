@@ -16,16 +16,29 @@ When I am not building dreams or volunteering to teach kids, you'll find me runn
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
     <img src="https://github.com/Athmajan/athmajan/raw/main/bert_marl.gif" alt="Adaptive Multi-Agent Systems" width="45%">
-    <img src="https://github.com/Athmajan/athmajan/blob/main/30_15_30_Adapt.gif" alt="Adaptive Multi-Agent Systems" width="45%">
+    
+  
 </div>
 
 - Continuous State/Action Spaces
-TODO - Add MPE Repo Link here
+ I am extending the discrete results to continuous state and action spaces.
 
 ## 📚 I am currently learning
 
 
-## Projects Highlights
+
+
+## Reinforcement Learning
+- [World Models](https://github.com/ICONgroupCWC/worldmodels-ARM)
+  Pytorch implementation of the "World Models" for ARM processors (Apple Silicon).
+  I reimplemented the Paper: Ha and Schmidhuber, [World Models](https://doi.org/10.5281/zenodo.1207631) compatible for Apple Silicon processors.
+  <img src="https://github.com/Athmajan/athmajan/blob/main/VAE%20WM.gif" alt="Adaptive Multi-Agent Systems" width="500">
+
+- [Multi Robot Repair](https://github.com/Athmajan/multi-robot-repair)
+  This is a work in progress. I am developing the simulator described in the [paper](https://arxiv.org/abs/2011.04222) - Multiagent Rollout and Policy Iteration for POMDP with Application to Multi-Robot Repair Problems.
+  <img src="https://github.com/Athmajan/multi-robot-repair/blob/main/robot-repair-simulator.gif" alt="robot repair" width="45%">
+
+
 
 ## Signal Processing
 - [Optimal Wiener Filter](https://github.com/Athmajan/SSP2-HW1)
@@ -57,13 +70,15 @@ TODO - Add MPE Repo Link here
 ## Network Virtualization and Containerization
 - [CoAP | IoT | Hypervisor](https://github.com/Athmajan/CN1-Lab)
 - [Mininet](https://github.com/Athmajan/CN2-Lab)
-- 
-- 
-- Reinforcement Learning
+  
+
 
 ## Machine Learning
 - [Multi-Modal Physical Exercise Classification](https://github.com/Athmajan/MMDF)
   Decision-level fusion for multimodal classification. Feature extraction. Feature-level fusion.
+
+## Antenna Design
+- [Single Element Antenna and Antenna Array Design](https://github.com/Athmajan/antenna-design)
 
   
 ## Deep Learning
@@ -81,6 +96,10 @@ TODO - Add MPE Repo Link here
 
 - [CNN](https://github.com/Athmajan/DL-CNN)
 - [Generative Adversarial Network](https://github.com/Athmajan/DL-GAN)
+
+- [Neural Network from scratch](https://github.com/Athmajan/NN-simpl)
+  An interesting approach to explaining neurons, layers, and how weights and biases work using basic principles. [YOUTUBE](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
+  
   
 
 
@@ -88,17 +107,6 @@ TODO - Add MPE Repo Link here
 
 
 
-Pytorch implementation of the "World Models" for ARM processors (Apple Silicon)
-I reimplemented the Paper: Ha and Schmidhuber, "World Models", 2018. https://doi.org/10.5281/zenodo.1207631 with a focus on updating dependencies for compatibility for Apple Silicon processors.
-
-### Tools & Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
-<img src="https://github.com/Athmajan/athmajan/blob/main/VAE%20WM.gif" alt="Adaptive Multi-Agent Systems" width="500">
 
 
 

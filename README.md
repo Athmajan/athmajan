@@ -1,14 +1,25 @@
+🚧 WIP :) 
+
 ## Hi there 👋, my name is Athmajan.
 
 ## 🙋🏽‍♂️ About Me
 I am from Sri Lanka 🇱🇰, currently living in Oulu Finland 🇫🇮.
-I am passionate about exploring and studying applications of AI and RL in Wireless Communications Networks.
+I am an engineer with over 7 years of experience developing automation and digitization solutions in the telecommunications industry.
+I will soon receive a Master's Degree in Wireless Communications Engineering from the University of Oulu, where I have been exploring and studying applications of AI, RL and DL in Wireless Communications Networks.
 When I am not building dreams or volunteering to teach kids, you'll find me running outdoors 🏃🏽 - rain, shine, or snow!,  📺 Binge-watching Netflix's finest, and spending quality time with my beautiful wife Jero 🩵.
 
 ## 👨🏽‍💻 I am currently working on
 Adaptive multi-agent systems by modeling other agents' communications and actions.
 
 <img src="https://github.com/Athmajan/athmajan/raw/main/bert_marl.gif" alt="Adaptive Multi-Agent Systems" width="500" href="https://github.com/ICONgroupCWC/chase-and-capture?tab=readme-ov-file">
+
+
+## ⨡ My Projects
+
+Pytorch implementation of the "World Models" for ARM processors (Apple Silicon)
+I reimplemented the Paper: Ha and Schmidhuber, "World Models", 2018. https://doi.org/10.5281/zenodo.1207631 with a focus on updating dependencies for compatibility for Apple Silicon processors.
+
+<img src="[https://github.com/Athmajan/athmajan/raw/main/bert_marl.gif](https://github.com/Athmajan/athmajan/blob/main/VAE%20WM.gif)" alt="VAE reconstruction" width="500">
 
 
 

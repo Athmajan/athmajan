@@ -37,7 +37,8 @@ On the left - Base Policy. On the right - Sequential Rollout.
   ![NVIDIA](https://img.shields.io/badge/NVIDIA-Learning-76B900?style=flat&logo=nvidia&logoColor=white)
 
 
-### Table of Contents
+## Table of Contents
+Here is a summary of my project compilation.
 - RL, DL and ML
   - [Reinforcement Learning](#reinforcement-learning)
     - [World Models](#world-models)

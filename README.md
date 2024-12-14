@@ -75,6 +75,7 @@ Here is a summary of my project compilation.
 - [Multi Robot Repair](https://github.com/Athmajan/multi-robot-repair)  
   ![Python](https://img.shields.io/badge/Python-POMDP-blue?style=flat&logo=python&logoColor=white)  
   This is a work in progress. I am developing the simulator described in the [paper](https://arxiv.org/abs/2011.04222) - Multiagent Rollout and Policy Iteration for POMDP with Application to Multi-Robot Repair Problems.
+  <br></br>
   <img src="https://github.com/Athmajan/multi-robot-repair/blob/main/robot-repair-simulator.gif" alt="robot repair" width="500" style="margin: 20px 0;">
 
 - CartPole  

@@ -39,6 +39,7 @@ On the left - Base Policy. On the right - Sequential Rollout.
 
 ## Table of Contents
 Here is a summary of my project compilation.
+- [Python Automation Projects](#python-automation)
 - RL, DL and ML
   - [Reinforcement Learning](#reinforcement-learning)
     - [World Models](#world-models)
@@ -57,7 +58,11 @@ Here is a summary of my project compilation.
   - [Network Virtualization and Containerization](#network-virtualization-and-containerization)
   - [Antenna Design](#antenna-design)
 
-
+## Python Automation
+- [Automated base station classifier/controller and email alerts]
+    <div style="display: flex; justify-content: space-around; align-items: center;" style="margin: 50px 0;">
+    <img src="https://github.com/Athmajan/athmajan/blob/main/tropospheric.gif" alt="tropospheric prediction" width="45%">
+  </div>
   
 ## Reinforcement Learning
 - [World Models](https://github.com/ICONgroupCWC/worldmodels-ARM)  

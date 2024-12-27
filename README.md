@@ -40,6 +40,14 @@ On the left - Base Policy. On the right - Sequential Rollout.
 ## Table of Contents
 Here is a summary of my project compilation.
 - [Python Automation Projects](#python-automation)
+  - Automated Tropospheric Ducting and External Interference Prediction System
+  - Hardware Visualization Tool
+  - Low Utilized Cell Identifier Tool
+  - Base Station Upgrade Planning Tool
+  - Automatic Drive Test Tool (MDT)
+  - Antenna Database Tracker
+  - Automated Vote Counting (Elections As A Service)
+    
 - RL, DL and ML
   - [Reinforcement Learning](#reinforcement-learning)
     - [World Models](#world-models)

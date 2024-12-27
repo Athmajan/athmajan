@@ -59,10 +59,10 @@ Here is a summary of my project compilation.
   - [Antenna Design](#antenna-design)
 
 ## Python Automation
-- [Automated base station classifier/controller and email alerts]
+- [Automated base station classifier/controller and email alerts](https://github.com/Athmajan/troposphere)
     <div style="display: flex; justify-content: space-around; align-items: center;" style="margin: 50px 0;">
-    <img src="https://github.com/Athmajan/athmajan/blob/main/tropospheric.gif" alt="tropospheric prediction" width="45%">
-  </div>
+    <img src="https://github.com/Athmajan/athmajan/blob/main/tropospheric.gif" alt="tropospheric prediction" width="70%">
+    </div>
   
 ## Reinforcement Learning
 - [World Models](https://github.com/ICONgroupCWC/worldmodels-ARM)  

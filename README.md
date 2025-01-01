@@ -39,14 +39,12 @@ On the left - Base Policy. On the right - Sequential Rollout.
 
 ## Table of Contents
 Here is a summary of my project compilation.
-- [Python Automation Projects](#python-automation)
-  - Automated Tropospheric Ducting and External Interference Prediction System
-  - Hardware Visualization Tool
-  - Low Utilized Cell Identifier Tool
-  - Base Station Upgrade Planning Tool
-  - Automatic Drive Test Tool (MDT)
-  - Antenna Database Tracker
-  - Automated Vote Counting (Elections As A Service)
+- Process Automation Projects
+  - [External Interference Management Tool](#external-interference-management-tool)
+  - [Hardware Visualization Tool](#basestation-hardware-visualization)
+  - [Automatic Drive Test Tool](#automatic-drive-test)
+  - [Base Station Upgrade Planning Tool](#upgrade-planning-tool)
+  - [Automated Vote Counting (Elections As A Service)](https://eclk.github.io/results-tabulation/)
     
 - RL, DL and ML
   - [Reinforcement Learning](#reinforcement-learning)
@@ -67,10 +65,14 @@ Here is a summary of my project compilation.
   - [Antenna Design](#antenna-design)
 
 ## Python Automation
-- [Automated base station classifier/controller and email alerts](https://github.com/Athmajan/troposphere)
+- [External Interference Management Tool](https://github.com/Athmajan/troposphere)
     <div style="display: flex; justify-content: space-around; align-items: center;" style="margin: 50px 0;">
     <img src="https://github.com/Athmajan/athmajan/blob/main/tropospheric.gif" alt="tropospheric prediction" width="70%">
     </div>
+
+- [Basestation Hardware Visualization](https://github.com/Athmajan/hw-visualize)
+- [Automatic Drive Test](https://github.com/Athmajan/mdt)
+- [Upgrade Planning Tool](upgrade-planning)
   
 ## Reinforcement Learning
 - [World Models](https://github.com/ICONgroupCWC/worldmodels-ARM)  

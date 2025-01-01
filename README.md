@@ -68,6 +68,13 @@ Here is a summary of my project compilation.
     <img src="https://github.com/Athmajan/athmajan/blob/main/tropospheric.gif" alt="tropospheric prediction" width="70%">
     </div>
 
+- [Hardware Visualization Tool](https://github.com/Athmajan/hw-visualize)
+  
+  <div style="display: flex; justify-content: space-around; align-items: center;" style="margin: 50px 0;">
+    <img src="https://github.com/Athmajan/athmajan/blob/main/rru_bbu.png" alt="hardware visualization" width="70%">
+  </div>
+
+  
   
 ## Reinforcement Learning
 - [World Models](https://github.com/ICONgroupCWC/worldmodels-ARM)  

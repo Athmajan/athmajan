@@ -39,21 +39,21 @@ On the left - Base Policy. On the right - Sequential Rollout.
 
 ## Table of Contents
 Here is a summary of my project compilation.
-- Process Automation Projects
-  - [External Interference Management Tool](#external-interference-management-tool)
-  - [Hardware Visualization Tool](#basestation-hardware-visualization)
-  - [Automatic Drive Test Tool](#automatic-drive-test)
-  - [Base Station Upgrade Planning Tool](#upgrade-planning-tool)
+- [Process Automation Projects](#python-automation)
+  - External Interference Management Tool
+  - Hardware Visualization Tool
+  - Automatic Drive Test Tool
+  - Base Station Upgrade Planning Tool
   - [Automated Vote Counting (Elections As A Service)](https://eclk.github.io/results-tabulation/)
     
 - RL, DL and ML
   - [Reinforcement Learning](#reinforcement-learning)
-    - [World Models](#world-models)
-    - [Multi Robot Repair](#multi-robot-repair)
-    - [CartPole](#cartpole)
-    - [Cleanup and Harvest - PPO Agents in MARL](#cleanup-and-harvest---ppo-agents-in-marl)
-    - [DM Walker - Vanilla Policy Gradient Agent for Base Policy](#dm-walker---vanilla-policy-gradient-agent-for-base-policy)
-    - [DM Walker - MPC on MPPI Agent with TD3](#dm-walker---mpc-on-mppi-agent-with-td3)
+    - World Models
+    - Multi Robot Repair
+    - CartPole
+    - Cleanup and Harvest - PPO Agents in MARL
+    - DM Walker - Vanilla Policy Gradient Agent for Base Policy
+    - DM Walker - MPC on MPPI Agent with TD3
   - [Deep Learning](#deep-learning)
   - [Machine Learning](#machine-learning)
 

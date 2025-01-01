@@ -41,9 +41,7 @@ On the left - Base Policy. On the right - Sequential Rollout.
 Here is a summary of my project compilation.
 - [Process Automation Projects](#python-automation)
   - External Interference Management Tool
-  - Hardware Visualization Tool
-  - Automatic Drive Test Tool
-  - Base Station Upgrade Planning Tool
+  
   - [Automated Vote Counting (Elections As A Service)](https://eclk.github.io/results-tabulation/)
     
 - RL, DL and ML
@@ -70,9 +68,6 @@ Here is a summary of my project compilation.
     <img src="https://github.com/Athmajan/athmajan/blob/main/tropospheric.gif" alt="tropospheric prediction" width="70%">
     </div>
 
-- [Basestation Hardware Visualization](https://github.com/Athmajan/hw-visualize)
-- [Automatic Drive Test](https://github.com/Athmajan/mdt)
-- [Upgrade Planning Tool](upgrade-planning)
   
 ## Reinforcement Learning
 - [World Models](https://github.com/ICONgroupCWC/worldmodels-ARM)  
